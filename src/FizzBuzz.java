@@ -20,7 +20,7 @@ class FizzBuzz {
         if (divisibleBy3 && divisibleBy5) {
 
             System.out.println("Fizz Buzz");
-
+//run
         } else if (divisibleBy3) {
 
             System.out.println("Fizz");
